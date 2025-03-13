@@ -1,8 +1,8 @@
    Hi, 👋 I’m Meshach Waye
    -----------------------------------------
-   A Professonal Data Analyst (Entry-Level)
+   A Data Analyst
  .💞️ I’m looking to collaborate on any AMAZING PROJECT
- .   I’m currently learning AWS CLOUD COMPUTING
+ .   I’m currently learning Python and AWS CLOUD COMPUTING
  .📫 You can reach me on meshach.waye@gmail.com
  
 
